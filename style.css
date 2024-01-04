@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Poppins', sans-serif; 
+}
+#main-table{
+    width:600px;
+    margin: auto;
+}
+#main-table table{
+    width: 100%;
+}
+
+#title{
+    height: 332px;
+    background: url("../images/dancer-bg.png");
+}
+#title td{
+    padding-left: 25px;
+    padding-top: 35px;
+    color: #fff;
+}
+
+#register{
+    padding: 5px;
+    width: 130px;
+    background-color: #e8631c;
+    border: 0px;
+    color: #fff;
+    font-size: 10px;
+}
+
+#country{
+    height: 401px;
+    background: url("../images/t2-bg.png");
+    color: #fff;
+}
+.cnty1{
+    padding: 20px; 
+}
+
+#pricing{
+    background-color: #303030;
+    color: #fff;
+}
+.price{
+    text-align: center;
+    padding: 10px;
+}
+.price p{
+    font-size: 10px;
+}
+.price button{
+    padding: 3px 35px;
+    background-color:#303030;
+    color: #fff;
+    border: 0px;
+    border-radius: 2px;
+}
+.card{
+    background-color: #e8631c   ;
+    border-radius: 5px;
+    padding: 10px;
+}
+.card tr td{
+    padding:10px
+}
+.card img{
+    padding-top: 16px;
+
+}
+
+#more{
+    color: #fff;
+    text-align: center;
+}
+#more td{
+    height: 399px;
+    border: 0px;
+}
+#more p{
+    font-size: 10px;
+}
+
+#stat{
+    background-color: #303030;
+    height: 402px;
+    color: #fff;
+    text-align: center;
+}
+.analyst{
+    padding-bottom: 20px;
+}
+
+#model{
+    height: 405px;
+    color: #fff;
+    background: url("../images/model.png");
+    text-align: center;
+}
+
+#subs{
+    height: 246px;
+    color: #fff;
+    background-color: #e8631c;
+    text-align: center;
+}
+
+#sub{
+    background-color: #303030;
+    color: #fff;
+    padding: 5px;
+    border: 0;
+    font-size: 10px
+}
